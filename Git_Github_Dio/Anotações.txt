@@ -1,0 +1,19 @@
+- Git -> Sistema distribuído seguro.
+Softaware é feito colaborativo,
+Git != Github
+
+cd -> troca de pasta
+dir -> lista as pastas
+mkdir -> cria uma nova pasta
+del/rmdir
+cls or ctrl + l -> limpa o terminal
+
+Blobs -> Guarda somente a decodificação.
+Trees -> Armazena os blobs, armazena o título e aponta para outras trees.
+Commit -> Junta tudo
+Chave SSH -> forma mais segura de estabelecer uma conexão entre duas máquinas.
+
+Algoritmo -> Sequência de passos para resolver um problema.
+Pseudocódigo -> Uma forma genérica de escrever um algoritmo utilizando uma linguagem simples.
+Fluxograma -> Ferramenta utilizada para representar graficamente o algoritmo, sequência de lógica.
+Variável -> É um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo.
